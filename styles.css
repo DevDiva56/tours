@@ -1,0 +1,50 @@
+.major, .min {
+    letter-spacing:  1.4rem;
+}
+
+.major {
+    padding-top: 70px;
+}
+
+.custom-col{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.bg-success {
+    background-color: #198754;
+  }
+  
+  .card-group .card {
+    background-color: white;
+    border-radius: 8px;
+    margin: 10px;
+  }
+  
+  .icon-top-left {
+    width: 20px; /* Tiny size */
+    height: 20px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+
+  /* Center the 'About Us' heading */
+.justify-content-center {
+  text-align: center;
+}
+
+.bg-light {
+  background-color: #f7f7f7; /* Light grey background */
+}
+.card {
+  background-color: transparent; /* Make the card background transparent */
+  border: none; /* Remove the card border */
+  box-shadow: none; /* Remove the shadow */
+}
+.card .fa-icon {
+  color: #5a5a5a; /* A soft color to match the light grey theme */
+}
+
+  
+  
